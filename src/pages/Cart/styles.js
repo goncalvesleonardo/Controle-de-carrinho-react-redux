@@ -32,7 +32,7 @@ export const Container = styled.div`
 export const ProductTable = styled.table`
   width: 100%;
 
-  thear th {
+  thread th {
     color: #999;
     text-align: left;
     padding: 12px;
@@ -40,7 +40,7 @@ export const ProductTable = styled.table`
 
   tbody td {
     padding: 12px;
-    border-ottom: 1px solid #eee;
+    border-bottom: 1px solid #eee;
   }
 
   img {
